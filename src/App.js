@@ -49,6 +49,7 @@ function App() {
     let currentMidterm = document.querySelector('#midterm').value
     let currentFinal = document.querySelector('#final').value
     let currentCommits = document.querySelector('#commits').value
+    let currentE01 = document.querySelector('#e01').value
     let currentE02 = document.querySelector('#e02').value
     if(currentSum==='')
     return;
