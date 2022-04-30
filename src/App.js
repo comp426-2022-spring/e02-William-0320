@@ -78,6 +78,12 @@ function App() {
             <input type="text" id="a04" placeholder="a04" /><br/><br/>
             <input type="text" id="a05" placeholder="a05" /><br/><br/>
             <input type="text" id="a99" placeholder="a99" /><br/><br/>
+            <input type="text" id="e01" placeholder="e01" /><br/><br/>
+            <input type="text" id="e02" placeholder="e02" /><br/><br/>
+            <input type="text" id="questionnaire01" placeholder="questionnaire01" /><br/><br/>
+            <input type="text" id="midterm" placeholder="midterm" /><br/><br/>
+            <input type="text" id="final" placeholder="final" /><br/><br/>
+            <input type="text" id="a99" placeholder="commits" /><br/><br/>
             <button onClick={Add}>Add</button>
             <button onClick={Clear}>Clear</button>
             <label for="result"><b>Result:</b></label>
